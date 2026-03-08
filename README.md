@@ -3,7 +3,7 @@ Watch the video On YouTube: Tief Software Truth
 Powerful looking Portfolio Website Design | Createve portfolio 
 
 # portfolio show
-A portfolio is a collection of financial investments like stocks, bonds, commodities, cash, and cash equivalents, including closed-end funds and exchange traded funds (ETFs). People generally believe that stocks, bonds, and cash comprise the core of a portfolio.
+A portfolio web site is a collection of a personal information and his/her profecionalizim in any field
 
 # html
 HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables
